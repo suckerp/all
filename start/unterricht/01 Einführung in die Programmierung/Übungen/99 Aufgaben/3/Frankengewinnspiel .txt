@@ -1,0 +1,22 @@
+
+
+Das Spielfeld des Frankengewinnspiels besteht aus beliebig vielen, ab Eins (1) nummerierten Feldern. Auf jedem Feld gibt es einen Gewinn, welcher entsprechend der Feldnummer ist. Auf dem Feld 8 liegen 8.-- Fr. usw. Der Betrag von jedem Feld, das man besucht, darf als Gewinn mitgenommen werden.
+
+Die Spielvorschrift besteht aus den folgenden Regeln
+
+ 
+
+    Wählen Sie ein Feld zwischen 1 und 99.
+    Nehmen Sie das Geld und gehen Sie nach folgender Vorschrift zum nächsten Feld
+
+    Feldnummer ungerade Feld  Feld * 3 + 1
+    Feldnummer gerade Feld  Feld / 2
+
+Wiederholen Sie Schritt 2, bis Sie auf dem Feld 1 landen.
+
+    Schreiben Sie ein Unterprogramm, welches zu einem gewählten Startwert den Gewinn ausgibt.
+    Schreiben Sie ein Programm, welches die Gewinne für alle 99 Startmöglichkeiten ausgibt.
+    Was ist der maximale Gewinn dieses Spiels
+    Wie heißt die höchste erreichte Feldnummer, wenn Sie den Startwert frei wählen Ergänzen Sie dazu das Programm aus Aufgabe c).
+
+Hinweis Die Spielvorschrift dieser Aufgabe ist als Collatz-Folge oder Ulam-Sequenz bekannt.

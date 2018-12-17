@@ -1,0 +1,4 @@
+Versucht eine Multiplikationsaufgabe mit 3 Faktoren (x * y * z) zu l�sen, 
+ohne die Multiplikation ihrer Programmiersprache zu verwenden.
+
+Mann sollte f�r x,y und z beliebige positive ganze Zahlen einsetzten k�nnen.

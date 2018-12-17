@@ -1,0 +1,7 @@
+Füllen Sie ein Feld mit den Zahlen: 2, 17, 10, 9, 16, 3, 9, 16, 5, 1, 17, 14.
+
+Schreiben Sie nun ein Programm, das aus dem obigen Feld ein neues Feld erzeugt, 
+das nur noch die Zahlen enthält, die größer als 10 sind. 
+Die Signatur der Funktion soll wie folgt aussehen:
+
+filter(original: integer[]) : integer[]

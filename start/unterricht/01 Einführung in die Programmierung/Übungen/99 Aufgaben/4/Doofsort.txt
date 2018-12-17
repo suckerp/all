@@ -1,0 +1,7 @@
+Gegeben ist ein Zahlenfeld [9, 8, 7, 6, 5, 4, 3, 2, 1, 0].
+
+Dieses Zahlenfeld soll nach dem Doofsort sortiert werden, so dass das kleinste Element (i.e.: 0) als erstes steht, das größte (i.e.: 9) als letztes nach der Sortierung.
+
+Der Doofsort (auch bekannt als Bogosort, PermutationSort, StupidSort, SlowSort, ShotgunSort oder MonkeySort mischt die gegebenen Elemente solange durcheinander, bis alle Elemente in Reihe stehen.
+
+Als Ergebnis steht das sortierte Feld, gemeinsam mit der Anzahl der Versuche. 

@@ -1,0 +1,15 @@
+Es handelt sich hier nicht um anstößige Partygäste. Vielmehr geht es darum, dass die Personen an einer Party mit ihren Gläsern anstoßen.
+
+Die Aufgabe, wie oft die Gläser klingen, wenn jeder mit jedem anstößt, ist bekannt. Es handelt sich um die Formel von Gauß und bei n Personen wird n*(n-1)/2 mal angestoßen.
+
+Doch diese Party ist anders.
+
+Nach und nach betreten die 20 Gäste den Ballsaal. Einer nach dem anderen. Leider vergeht von Gast zu Gast so viel Zeit, dass alle Anwesenden bereits wieder ausgetrunken haben. Doch von vorne:
+
+Nachdem der zweite Gast der Raum betritt, stoßen die beiden Personen an und beginnen zu plaudern. Nach einiger Zeit haben sie ausgetrunken und ein dritter Gast betritt den Ballsaal. Nun schenken sich alle ein Getränk ein und alle drei stoßen miteinaner an.
+
+Sobald der 4. Gast den Raum betritt, schenken sich sofort alle wieder ihr Glas voll; alle vier Personen stoßen nun miteinander an
+
+Wie viel mal klingelten die Gläser an diesem Abend, wenn insgesammt 20 Gäste anwesend waren? Oder darf man hier sagen "hineintröpfelten"?
+
+Programmieren Sie das Resultat so, dass der Anwender die Anzahl aller Gäste frei wählen kann, und Ihr Programm soll danach ausgeben, wie oft die Gläser geklungen hatten.

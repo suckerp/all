@@ -1,0 +1,11 @@
+
+
+Schreiben Sie eine Funktion, die von einer gegebenen Zahl pr�ft, 
+ob es sich um eine sog. Zweierpotenz handelt.
+
+Zweierpotenzen sind die Zahlen, 
+die durch mehrmaliges Verdoppeln der Zahl 1 zustande kommen (1, 2, 4, 8, und so weiter).
+
+Eingabe: ganze, positive Zahl
+
+Ausgabe: TRUE (wahr oder 1) bei Zweierpotenzen bzw. FALSE (fasch oder 0) bei allen anderen Zahlen.

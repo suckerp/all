@@ -1,0 +1,14 @@
+Die folgenden Informationen sind gegeben:
+
+- Der 1 Januar 1900 war ein Montag
+
+- 30 Tage haben folgende Monate:
+
+September, April, Juni und November.
+
+Die restlichen Monate haben 31 Tage, abgesehen
+
+von Februar, welcher 28 Tage und beim Schaltjahr 29 Tage hat.
+
+Wieviele Sonntage fallen auf den ersten des Monats zwischen 1900 und 2000 
+(1 Jan 1901 bis 31 Dez. 2000)?

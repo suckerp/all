@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Page Title</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- materialize icons -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+        <!-- materialize CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+
+        <!-- materialize JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+
+        <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+
+
+    </head>
+
+    <body>
+
+        
+        <header class="teal lighten-1">
+            <h1 class="white-text center"> ToDo Liste</h1>
+        </header>
+        
+
+        <main>
+            
+            <div class="container">
+
+  
+                <div class="section">
+                    
+                    <ul id="todoListe" class="collection with-header">
+                        
+                    </ul>
+                    
+                    <br>
+
+                    <form class="input-field"> 
+                        <input type="text" id="todoInput">
+                        <label for="input1">Input</label>
+                    </form> 
+                    
+                    
+                    <button id="todoAddButton" class="btn waves-effect waves-light ">
+                        <i class="material-icons">add</i>
+                    </button>  
+                    <br>
+
+                </div>
+
+            </div>
+            
+        </main>
+
+        <footer class="page-footer teal lighten-1">
+
+        </footer>
+            
+    </body>
+    <script>M.AutoInit();</script>
+    <script src="main.js"></script>
+</html>

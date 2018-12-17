@@ -1,0 +1,6 @@
+
+Es sollen mithilfe des Sieb des Eratosthenes alle Primzahlen bis 1000 gefunden und ausgegeben werden.
+
+Sieb des Eratosthenes: Sieb des Eratosthenes (Wikipedia)
+
+Hinweis: Um die Nicht-Primzahlen im Feld zu markieren, braucht man eine Schleife von 2 bis 31. Die Vielfachen dieser Zahlen grenzen die Primzahlen ein.

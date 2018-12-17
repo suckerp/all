@@ -1,0 +1,23 @@
+
+
+Anna lernt lesen. Um sie dabei zu unterst�tzen, 
+darf sie bei der Gute-Nacht-Geschichte mitlesen. 
+Jeden Abend wird eine weitere Geschichte 
+aus dem schier unendlich dicken Kinderbuch verwendet. 
+Um Anna nicht zu �berfordern liest sie anf�nglich nicht alles selbst. 
+Zusammen mit ihrem Vater hat sie folgende Methode entwickelt.
+
+Am ersten Abend liest Anna das erste Wort der ersten Geschichte. 
+Der Vater liest den Rest vor. 
+An den darauf folgenden zwei Tagen darf Anna jeweils zwei W�rter 
+der beiden n�chsten Geschichten selbst lesen. 
+An weiteren drei Tagen liest sie bereits je drei W�rter der Geschichte selbst.
+
+An welchem Tag darf sie das erste Mal f�nf W�rter lesen
+Wie viele W�rter darf Anna in der 23. Geschichte selbst lesen
+
+Schreiben Sie ein Programm, das obige beiden Fragen f�r beliebige Zahlen selbst l�st
+
+a) In welcher Geschichte (also an welchem Tag) darf sie zum ersten Mal n W�rter lesen
+
+b) Wie viele W�rter darf Anna in der m-ten Geschichte (also am m-ten Tag) schon selbst lesen

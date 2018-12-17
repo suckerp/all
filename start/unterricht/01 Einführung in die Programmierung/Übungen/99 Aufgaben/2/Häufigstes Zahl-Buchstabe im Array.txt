@@ -1,0 +1,8 @@
+Gegeben ist ein Array mit Zahlen als Werten:
+{2, 17, 10, 9, 16, 3, 9, 16, 5, 1, 17, 14}
+Schreiben Sie eine Funktion, die in einem Array die h�ufigste Zahl findet. 
+Sollte sie mehrere gleicher Anzahl finden, 
+so darf irgend eine Zahl dieser H�ufigsten ausgegeben werden.
+
+
+Zusatz: Häufigster Buchstabe im Satz

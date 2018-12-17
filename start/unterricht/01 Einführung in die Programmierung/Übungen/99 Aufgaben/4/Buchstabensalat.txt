@@ -1,0 +1,11 @@
+
+
+Schreib ein Programm das in einem Buchstabensalat 
+z. B. "sakdeidpoidweoidowijk" den l�ngsten Substring 
+in alphabetisch-korrekter Reihenfolge findet.
+
+z. B. "kotafgovlav" -> "Der l�ngste alphabetische Substring ist: afgov"
+
+gibt es 2 gleichlange Kandidaten, soll der erste genommen werden
+
+z.B. "abcbcd" -> "Der l�ngste alphabetische Substring ist: abc"

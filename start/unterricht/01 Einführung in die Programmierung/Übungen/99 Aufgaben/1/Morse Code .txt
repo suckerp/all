@@ -1,0 +1,11 @@
+
+
+Schreiben Sie ein Programm, das einen Text ins Morsealphabet umwandeln kann. 
+
+Der Anwender kann den Text selbst w�hlen.
+
+Die Symbole sollen mit Punkt (�) bzw. Minuszeichen (-) dargestellt werden. 
+
+F�r das Morsealphabet bitte hier nachschlagen:
+
+de.wikipedia.org/wiki/Morsecode

@@ -1,0 +1,27 @@
+Ihr Programm soll einen Waldbrand simulieren. Zunächst besteht der Wald aus einem rechteckigen Raster (zweidimensionales Feld) aus Bäumen (B) und leerem Waldboden (·).
+
+In jedem Zeitschritt geschieht nun folgendes.
+
+    	Jeder Baum wird sich mit einer kleinen Wahrscheinlichkeit von f entzünden (Funken, Blitze, Zigarrenstummel, ...). 
+	Brennende Bäume werden mit (F) wie Feuer bezeichnet. 
+	Jeder Baum (B) , der einen brennenden Nachbarn (F) hat, wird auch brennen (F). 
+	Bäume, die in einem Zeitschritt zu brennen beginnen, sind erst im nächsten Zeitschritt fähig, weitere Bäume zu entfachen.
+    	Jedes leere Feld (·) wird mit einer geringen Wahrscheinlichkeit w (Wachstum) zu einem Bäumchen (B) keimen.
+    	Jeder bereits brennende Baum (F) wird absterben und ein leeres Stück humusreichen Waldboden hinterlassen (·). 
+	Natürlich tut er das erst, nachdem er die umliegenden nicht brennenden Bäume (B) auch entfacht hat (F).
+
+Eingegeben werden die Wahrscheinlichkeiten f (zufällige Funkenentzündung) und w (Wachstum). 
+Nach jeder Iteration soll "der Wald" ausgegeben werden. Dies kann ganz einfach auf der Konsole geschehen:
+
+········B······B····B···
+···B······B·B·········B·
+·BBB····FB·····B····F·B·
+···BB·BB········BB··B···
+
+ 
+
+Tipp: Damit nicht ein Baum, der sich eben entfacht hat, erst im nächsten Zeitschritt einen Baum entfacht und damit auch ein Baum nicht gleich abstirbt, 
+bevor er alle Nachbarbäume entfacht hat, bietet es sich an, in jedem Zeitschritt jeden Rasterpunkt aus den Rasterpunkten des alten Zeitschrittes zu berechnen. 
+Damit sich diese beiden Raster nicht in die Quere kommen, bietet es sich an, zwei separate Matrizen (= zweidimensionale Felder) zu verwalten: "alt" und "neu". 
+Währen dem Zeitschritt werden die obigen drei Regeln beachtet 
+Nach jedem Zeitschritt wird der Inhalt von "alt" mit dem alten Inhalt von "neu" definiert und die neue Matrix "geleert" (bzw. als ungültig erklärt).

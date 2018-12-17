@@ -1,0 +1,11 @@
+Eine nat�rliche Zahl, die durch ihre eigene Quersumme teilbar ist, 
+hei�t Harshad- oder Niven-Zahl.
+
+Zum Beispiel:
+
+777 ist durch 7 + 7 + 7 = 21 teilbar und damit eine Harshad-Zahl.
+
+Schreiben Sie ein Programm, das alle Zahlen bis n testet, ob sie Harshad-Zahlen sind. 
+Das Programm soll alle Harshad-Zahlen ausgeben.
+
+Tipp:  Umwandeln in String
